@@ -44,3 +44,10 @@
     max-width: 150px;
     border-radius: 5px;
 }
+
+@media (max-width: 768px) {
+    .tab {
+        padding: 5px 10px;
+        font-size: 14px;
+    }
+}
